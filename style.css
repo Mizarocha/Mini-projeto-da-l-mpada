@@ -1,0 +1,23 @@
+body{
+   
+  background-color: yellow;
+}
+
+head, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+   
+}
+
+button{
+    width: 80px;
+}
+
+footer{
+    color:black;
+    margin-top: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
